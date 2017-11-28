@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\jaime\AndroidStudioProjects\AppPeliculas\FilmKing2.0-master\FilmKing2.0.iml" filepath="C:\Users\jaime\AndroidStudioProjects\AppPeliculas\FilmKing2.0-master\FilmKing2.0.iml" />
+      <module fileurl="file://C:\Users\jaime\AndroidStudioProjects\AppPeliculas\PeliculasApp\FilmKing2.0-master.iml" filepath="C:\Users\jaime\AndroidStudioProjects\AppPeliculas\PeliculasApp\FilmKing2.0-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PeliculasApp.iml" filepath="$PROJECT_DIR$/PeliculasApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

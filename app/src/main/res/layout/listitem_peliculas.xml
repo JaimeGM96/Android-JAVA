@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="?android:attr/selectableItemBackground"
+    android:id="@+id/list_item"
+    android:weightSum="1"
+    android:layout_height="142dp"
+    android:layout_margin="5dp"
+    android:layout_width="match_parent">
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardElevation="12dp"
+        app:cardCornerRadius="6dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/caratula"
+                android:layout_weight="0.14"
+                android:scaleType="centerCrop"
+                android:layout_width="match_parent"
+                app:srcCompat="@drawable/imagen_preview"
+                android:layout_height="match_parent"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam,RtlHardcoded" />
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>
