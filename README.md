@@ -1,6 +1,4 @@
-# README #
-
-Aplicación creada y desarrollada por Raúl Labrat Rodríguez, para la asignatura de PMyDM del ciclo 2ºDAM, en el centro CES Cristorey.
+﻿# README # Aplicacion que se encarga de mostrar los datos de la API themoviedb mediante retrofit.
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
