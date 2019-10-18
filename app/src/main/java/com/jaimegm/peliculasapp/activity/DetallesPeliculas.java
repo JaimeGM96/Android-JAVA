@@ -28,7 +28,7 @@ import retrofit2.Response;
 
 public class DetallesPeliculas extends Fragment {
     private static int movie_id;
-    private final static String API_KEY = "cd9b31ae50149fdf24f9642d2d0c08c4";
+    private final static String API_KEY = "";
     private String Language = "es-ES";
 
     @BindView(R.id.caratula_detalles)
